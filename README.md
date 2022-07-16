@@ -1,13 +1,12 @@
 [![MasterHead](https://www.mcfaddengavender.com/wp-content/uploads/2015/10/iStock-1140338911.jpg)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Prosenjit Chandra Biswas</h1>
 <h3 align="center">A passionate Programmer.</h3>
-<img src ="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif" alt="coding">
-<img align="right" alt="Coding" width="300" src="https://static.vecteezy.com/system/resources/thumbnails/002/254/200/small_2x/programmer-computer-expert-rgb-color-icon-vector.jpg">
+<p align="right"><img align="right" alt="Coding" width="300" src ="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif" alt="coding">
+<p align="right"><img align="right" alt="Coding" width="300" src="https://static.vecteezy.com/system/resources/thumbnails/002/254/200/small_2x/programmer-computer-expert-rgb-color-icon-vector.jpg"/></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prosenjit07&label=Profile%20views&color=0e75b6&style=flat" alt="prosenjit07" /> </p>
 
 - 🌱 I’m currently learning **javascript**
-
 - 📫 How to reach me **prosenjitbiswas983@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
