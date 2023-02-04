@@ -1,6 +1,6 @@
 <!-- [![MasterHead](https://www.mcfaddengavender.com/wp-content/uploads/2015/10/iStock-1140338911.jpg)](https://prosenjit07.github.io/) -->
 <h1 align="center">Hey! I'm Prosenjit Chandra Biswas</h1>
-<h3 align="center">A Passionate Programmer.</h3>
+<h3 align="center">A Passionate Programmer and Developer.</h3>
 <h4 align="center"><P>I <s>like</s> love Programming</p></h4>
 <p align="right"><img align="right" alt="Coding" width="350" src ="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif" alt="coding">
 <p align="right"><img align="right" alt="Coding" width="350" src="https://camo.githubusercontent.com/e20822b4282c07ffd010cd05f855a6561d3b62358ca9e607e4901288dd748fcb/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323133313939332f73637265656e73686f74732f343934383733362f74686f75676874776f726b732d6769665f6472696262626c652e676966"/></p>
@@ -8,36 +8,135 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prosenjit07&label=Profile%20views&color=0e75b6&style=flat" alt="prosenjit07" /> </p>
 
 - 🌱 I’m currently learning **Python,Machine Learning,Deep Learning**
-- 📫 How to reach me **prosenjitbiswas983@gmail.com**
 
 
 <a href="https://www.github.com/prosenjit07" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/prosenjit07?logo=github&style=for-the-badge&color=0891b2&labelColor=000000" /></a>
 
+ 
+ <h2 align="left" id="prosenjit07-social">Connect With Me</h2>
+
+> You can connect with me in following ways.
+
+[<img alt="Facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/jitroy2350) [<img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/prosenjit_68) [<img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">](https://t.me/Advance_programming_Camp) [<img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/jitroy_7/) [<img alt="Reddit" src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white">](https://reddit.com/u/prosenjit07) [<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">](mailto:prosenjitbiswas983@gmail.com)
+
 ### Socials
 <p align="left"> <a href="https://discord.com/users/jit#6487" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/https://www.instagram.com/jitroy_7/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
  <a href="https://www.linkedin.com/in/prosenjit-biswas-p14568" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p><a href="https://www.github.com/prosenjit07"  target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> 
 
-### Skills
-<p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
-<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
-<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
-<a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" width="36" height="36" alt="Fast API" /></a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
-<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored-dark.svg" width="36" height="36" alt="Django" /></a>
-<a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored-dark.svg" width="36" height="36" alt="Photoshop" /></a>
-<a href="https://www.adobe.com/uk/products/premiere.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/premierepro-colored-dark.svg" width="36" height="36" alt="Premiere Pro" /></a>
-<a href="https://www.adobe.com/uk/products/xd.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/xd-colored-dark.svg" width="36" height="36" alt="XD" /></a>
-</p>
+
+
+<h2 align="left" id="prosenjit07-tech">Favorite Tech</h2>
+
+> Tools, languages and other things that I like to work with.
+
+<table>
+  <tr>
+    <td align="center" width="98">
+      <a href="#prosenjit07-tech">
+        <img src="https://skillicons.dev/icons?i=c" width="48" height="48" alt="" />
+      </a>
+      <br>C
+    </td>
+    <td align="center" width="98">
+      <a href="#prosenjit07-tech">
+        <img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" alt="" />
+      </a>
+      <br>C++
+    </td>
+    <td align="center" width="98">
+      <a href="#prosenjit07-tech">
+        <img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="" />
+      </a>
+      <br>Java
+    </td>
+    <td align="center" width="98">
+      <a href="#prosenjit07-tech">
+        <img src="https://skillicons.dev/icons?i=py" width="48" height="48" alt="" />
+      </a>
+      <br>Python
+    </td>
+    <td align="center" width="98">
+      <a href="#prosenjit07-tech">
+        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="" />
+      </a>
+      <br>HTML5
+    </td>
+    <td align="center" width="98">
+      <a href="#prosenjit07-tech">
+        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="" />
+      </a>
+      <br>CSS3
+    </td>
+    <td align="center" width="98">
+      <a href="#prosenjit07-tech">
+        <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="" />
+      </a>
+      <br>Git
+    </td>
+    <td align="center" width="98">
+      <a href="#prosenjit07-tech">
+        <img src="https://skillicons.dev/icons?i=arduino" width="48" height="48" alt="" />
+      </a>
+      <br>Arduino
+    </td>
+   
+
+   
+  </tr>
+  <tr>
+    <td align="center" width="98">
+      <a href="#prosenjit07-tech">
+        <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="" />
+      </a>
+      <br>Java<br>Script
+    </td>
+    <td align="center" width="98">
+      <a href="#prosenjit07-tech">
+        <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="" />
+      </a>
+      <br>React<br>JS
+    </td>
+    <td align="center" width="98">
+      <a href="#prosenjit07-tech">
+        <img src="https://skillicons.dev/icons?i=androidstudio" width="48" height="48" alt="" />
+      </a>
+      <br>Android<br>Studio
+    </td>
+    <td align="center" width="98">
+      <a href="#prosenjit07-tech">
+        <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="" />
+      </a>
+      <br>VS<br>Code
+    </td>
+    <td align="center" width="98">
+      <a href="#prosenjit07-tech">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="48" height="48" alt="" />
+      </a>
+      <br>Py<br>Charm
+    </td>
+    <td align="center" width="98">
+      <a href="#prosenjit07-tech">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="48" height="48" alt="" />
+      </a>
+      <br>Adobe<br>Photoshop
+    </td>
+    <td align="center" width="98">
+      <a href="#prosenjit07-tech">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" width="48" height="48" alt="" />
+      </a>
+      <br>Adobe<br>Illustrator
+    </td>
+    <td align="center" width="98">
+      <a href="#prosenjit07-tech">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg" width="48" height="48" alt="" />
+      </a>
+      <br>Adobe<br>XD
+    </td>
+  </tr>
+</table>
+
+### Activities & Stats
 
 
 <a href="http://www.github.com/prosenjit07"><img src="https://github-readme-stats.vercel.app/api?username=prosenjit07&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&show_icons=true" alt="prosenjit07's GitHub stats" /></a>
