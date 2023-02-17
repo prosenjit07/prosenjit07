@@ -8,8 +8,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prosenjit07&label=Profile%20views&color=0e75b6&style=flat" alt="prosenjit07" /> </p>
 
 - 🌱 I’m currently learning **Python,Machine Learning,Deep Learning**
+- 🌱 Currently I’m working to build my own operationg system
 
-- 🌱 Currently I’m working to build my own operationg system**
 <a href="https://www.github.com/prosenjit07" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/prosenjit07?logo=github&style=for-the-badge&color=0891b2&labelColor=000000" /></a>
 
