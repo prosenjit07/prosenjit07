@@ -34,15 +34,15 @@ src="https://img.shields.io/github/followers/prosenjit07?logo=github&style=for-t
   <tr>
     <td align="center" width="98">
       <a href="#prosenjit07-tech">
-        <img src="https://skillicons.dev/icons?i=c" width="48" height="48" alt="" />
-      </a>
-      <br>C
-    </td>
-    <td align="center" width="98">
-      <a href="#prosenjit07-tech">
         <img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" alt="" />
       </a>
       <br>C++
+    </td>
+    <td align="center" width="98">
+      <a href="#prosenjit07-tech">
+        <img src="https://skillicons.dev/icons?i=c" width="48" height="48" alt="" />
+      </a>
+      <br>C
     </td>
     <td align="center" width="98">
       <a href="#prosenjit07-tech">
@@ -81,8 +81,12 @@ src="https://img.shields.io/github/followers/prosenjit07?logo=github&style=for-t
       <br>Arduino
     </td>
    
-
-   
+   <td align="center" width="98">
+      <a href="#prosenjit07-tech">
+        <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="" />
+      </a>
+      <br>MySQL
+    </td>
   </tr>
   <tr>
     <td align="center" width="98">
@@ -123,9 +127,9 @@ src="https://img.shields.io/github/followers/prosenjit07?logo=github&style=for-t
     </td>
     <td align="center" width="98">
       <a href="#prosenjit07-tech">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" width="48" height="48" alt="" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Adobe_Premiere_Pro_CC_icon.svg/2101px-Adobe_Premiere_Pro_CC_icon.svg.png" width="48" height="48" alt="" />
       </a>
-      <br>Adobe<br>Illustrator
+      <br>Adobe<br>Premiere Pro
     </td>
     <td align="center" width="98">
       <a href="#prosenjit07-tech">
@@ -133,7 +137,21 @@ src="https://img.shields.io/github/followers/prosenjit07?logo=github&style=for-t
       </a>
       <br>Adobe<br>XD
     </td>
+     <td align="center" width="98">
+      <a href="#prosenjit07-tech">
+        <img src="https://skillicons.dev/icons?i=net" width="48" height="48" alt="" />
+      </a>
+      <br>.Net
+    </td>
   </tr>
+ <tr>
+      <td align="center" width="98">
+      <a href="#prosenjit07-tech">
+        <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="" />
+      </a>
+      <br>Bootstrap
+    </td>
+ </tr>
 </table>
 
 ### Activities & Stats
