@@ -151,7 +151,14 @@ src="https://img.shields.io/github/followers/prosenjit07?logo=github&style=for-t
       </a>
       <br>Bootstrap
     </td>
+      <td align="center" width="98">
+      <a href="#prosenjit07-tech">
+        <img src="https://skillicons.dev/icons?i=bash" width="48" height="48" alt="" />
+      </a>
+      <br>Bash
+    </td>
  </tr>
+ 
 </table>
 
 ### Activities & Stats
