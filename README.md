@@ -8,7 +8,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prosenjit07&label=Profile%20views&color=0e75b6&style=flat" alt="prosenjit07" /> </p>
 
 - 🌱 I’m currently learning **Machine Learning and Artificial Intelligence from Microsoft Azure**
-- 🌱 I’m currently work as a Data Analyst Virtual internship.
+- 🌱 I’m currently working as a **Data Analyst** Virtual internship.
 - 🌱 I’m currently working with **Android Application** projects.
 
 <a href="https://www.github.com/prosenjit07" target="_blank" rel="noreferrer"><img
