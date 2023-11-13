@@ -158,6 +158,30 @@ src="https://img.shields.io/github/followers/prosenjit07?logo=github&style=for-t
       </a>
       <br>Bash
     </td>
+    <td align="center" width="98">
+      <a href="#prosenjit07-tech">
+        <img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="" />
+      </a>
+      <br>Php
+    </td>
+    <td align="center" width="98">
+      <a href="#prosenjit07-tech">
+        <img src="https://skillicons.dev/icons?i=firebase" width="48" height="48" alt="" />
+      </a>
+      <br>Firebase
+    </td>
+    <td align="center" width="98">
+      <a href="#prosenjit07-tech">
+        <img src="https://skillicons.dev/icons?i=jquery" width="48" height="48" alt="" />
+      </a>
+      <br>Jquery
+    </td>
+    <td align="center" width="98">
+      <a href="#prosenjit07-tech">
+        <img src="https://skillicons.dev/icons?i=kotlin" width="48" height="48" alt="" />
+      </a>
+      <br>Kotlin
+    </td>
  </tr>
  
 </table>
