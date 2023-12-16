@@ -182,6 +182,12 @@ src="https://img.shields.io/github/followers/prosenjit07?logo=github&style=for-t
       </a>
       <br>Kotlin
     </td>
+    <td align="center" width="98">
+      <a href="#prosenjit07-tech">
+        <img src="https://skillicons.dev/icons?i=googlecloud" width="48" height="48" alt="" />
+      </a>
+      <br>GoogleCloud
+    </td>
  </tr>
  
 </table>
