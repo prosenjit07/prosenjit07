@@ -14,10 +14,10 @@
 <a href="https://www.github.com/prosenjit07" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/prosenjit07?logo=github&style=for-the-badge&color=0891b2&labelColor=000000" /></a> -->
 
- 
+ <br><br>
  <h2 align="left" id="prosenjit07-social">Connect With Me</h2>
 
-> You can connect with me in following ways.
+> You can connect with me in the following ways.
 
 [<img alt="Facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/jitroy2350) [<img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/prosenjit_68) [<img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">](https://t.me/Advance_programming_Camp) [<img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/jitroy_7/) [<img alt="Reddit" src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white">](https://reddit.com/u/prosenjit07) [<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">](mailto:prosenjitbiswas983@gmail.com)
 
