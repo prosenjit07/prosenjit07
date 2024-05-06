@@ -23,7 +23,7 @@ src="https://img.shields.io/github/followers/prosenjit07?logo=github&style=for-t
 
 ### Socials
 <p align="left"> <a href="https://discord.com/users/jit#6487" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/https://www.instagram.com/jitroy_7/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
- <a href="https://www.linkedin.com/in/prosenjit-biswas-p14568" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p><a href="https://www.github.com/prosenjit07"  target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> 
+ <a href="https://www.linkedin.com/in/prosenjitbiswas07/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p><a href="https://www.github.com/prosenjit07"  target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> 
 
 
 
