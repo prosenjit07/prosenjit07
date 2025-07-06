@@ -1,15 +1,35 @@
+<!-- Optional Banner -->
 <!-- [![MasterHead](https://www.mcfaddengavender.com/wp-content/uploads/2015/10/iStock-1140338911.jpg)](https://prosenjit07.github.io/) -->
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=24&pause=1000&center=true&width=1000&lines=Hi!,+I+am+Prosenjit+Biswas;I+am+a+Competitive+Programmer,+Developer,+and+AI+enthusiast+;)
-<h4 align="center"><P>I <s>like</s> love Programming</p></h4>
-<p align="right"><img align="right" alt="Coding" width="350" src ="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif" alt="coding">
-<!-- <p align="right"><img align="right" alt="Coding" width="350" src="https://camo.githubusercontent.com/e20822b4282c07ffd010cd05f855a6561d3b62358ca9e607e4901288dd748fcb/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323133313939332f73637265656e73686f74732f343934383733362f74686f75676874776f726b732d6769665f6472696262626c652e676966"/></p> -->
+<!-- Typing Intro -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=24&pause=1000&center=true&width=1000&lines=Hi!,+I'm+Prosenjit+Biswas;Competitive+Programmer,+Developer,+and+AI+Enthusiast+🚀" alt="Typing SVG">
+</p>
+<!-- Coding Gif -->
+<p align="center">
+  <img src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif" alt="Coding" width="350">
+</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=prosenjit07&label=Profile%20views&color=0e75b6&style=flat" alt="prosenjit07" /> </p>
+<h4 align="center"><s>Like</s> <b>Love</b> Programming ❤️</h4>
+<!-- Profile Views -->
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=prosenjit07&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
 
-- 🌱 I’m currently learning **Machine Learning and Artificial Intelligence from Microsoft Azure**
-- 🌱 I’m currently working as a **Software Engineer** at <a href="https://techjays.com/" > Techjays </a>
-- 🌱 I’m currently practicing  **Leetcode Problem-Solving**.
+
+
+
+---
+
+## 🌱 About Me
+
+- 🎓 Currently exploring **Machine Learning and Artificial Intelligence** through **Microsoft Azure** learning paths.
+- 💼 Former **Software Engineer** at [Techjays](https://techjays.com/), a global software development company.
+- 🔍 Actively practicing **LeetCode problem-solving** to strengthen my algorithms and DSA foundation.
+
+---
+
+
 <!--
 <a href="https://www.github.com/prosenjit07" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/prosenjit07?logo=github&style=for-the-badge&color=0891b2&labelColor=000000" /></a> -->
