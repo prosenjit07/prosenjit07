@@ -34,162 +34,118 @@ src="https://img.shields.io/github/followers/prosenjit07?logo=github&style=for-t
 <table>
   <tr>
     <td align="center" width="98">
-      <a href="#prosenjit07-tech">
-        <img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" alt="" />
-      </a>
-      <br>C++
+      <img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" alt="" /><br>C++
     </td>
     <td align="center" width="98">
-      <a href="#prosenjit07-tech">
-        <img src="https://skillicons.dev/icons?i=c" width="48" height="48" alt="" />
-      </a>
-      <br>C
+      <img src="https://skillicons.dev/icons?i=c" width="48" height="48" alt="" /><br>C
     </td>
     <td align="center" width="98">
-      <a href="#prosenjit07-tech">
-        <img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="" />
-      </a>
-      <br>Java
+      <img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="" /><br>Java
     </td>
     <td align="center" width="98">
-      <a href="#prosenjit07-tech">
-        <img src="https://skillicons.dev/icons?i=py" width="48" height="48" alt="" />
-      </a>
-      <br>Python
+      <img src="https://skillicons.dev/icons?i=py" width="48" height="48" alt="" /><br>Python
     </td>
     <td align="center" width="98">
-      <a href="#prosenjit07-tech">
-        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="" />
-      </a>
-      <br>HTML5
+      <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="" /><br>HTML5
     </td>
     <td align="center" width="98">
-      <a href="#prosenjit07-tech">
-        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="" />
-      </a>
-      <br>CSS3
+      <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="" /><br>CSS3
     </td>
     <td align="center" width="98">
-      <a href="#prosenjit07-tech">
-        <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="" />
-      </a>
-      <br>Git
+      <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="" /><br>JavaScript
     </td>
     <td align="center" width="98">
-      <a href="#prosenjit07-tech">
-        <img src="https://skillicons.dev/icons?i=arduino" width="48" height="48" alt="" />
-      </a>
-      <br>Arduino
+      <img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="" /><br>TypeScript
     </td>
-   
-   <td align="center" width="98">
-      <a href="#prosenjit07-tech">
-        <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="" />
-      </a>
-      <br>MySQL
+    <td align="center" width="98">
+      <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="" /><br>Git
     </td>
   </tr>
+  
   <tr>
     <td align="center" width="98">
-      <a href="#prosenjit07-tech">
-        <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="" />
-      </a>
-      <br>Java<br>Script
+      <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="" /><br>GitHub
     </td>
     <td align="center" width="98">
-      <a href="#prosenjit07-tech">
-        <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="" />
-      </a>
-      <br>React<br>JS
+      <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="" /><br>ReactJS
     </td>
     <td align="center" width="98">
-      <a href="#prosenjit07-tech">
-        <img src="https://skillicons.dev/icons?i=androidstudio" width="48" height="48" alt="" />
-      </a>
-      <br>Android<br>Studio
+      <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="" /><br>Next.js
     </td>
     <td align="center" width="98">
-      <a href="#prosenjit07-tech">
-        <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="" />
-      </a>
-      <br>VS<br>Code
+      <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="" /><br>Node.js
     </td>
     <td align="center" width="98">
-      <a href="#prosenjit07-tech">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="48" height="48" alt="" />
-      </a>
-      <br>Py<br>Charm
+      <img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="" /><br>Express.js
     </td>
     <td align="center" width="98">
-      <a href="#prosenjit07-tech">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="48" height="48" alt="" />
-      </a>
-      <br>Adobe<br>Photoshop
+      <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="" /><br>Tailwind CSS
     </td>
     <td align="center" width="98">
-      <a href="#prosenjit07-tech">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Adobe_Premiere_Pro_CC_icon.svg/2101px-Adobe_Premiere_Pro_CC_icon.svg.png" width="48" height="48" alt="" />
-      </a>
-      <br>Adobe<br>Premiere Pro
+      <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="" /><br>Bootstrap
     </td>
     <td align="center" width="98">
-      <a href="#prosenjit07-tech">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg" width="48" height="48" alt="" />
-      </a>
-      <br>Adobe<br>XD
+      <img src="https://skillicons.dev/icons?i=jquery" width="48" height="48" alt="" /><br>jQuery
     </td>
-     <td align="center" width="98">
-      <a href="#prosenjit07-tech">
-        <img src="https://skillicons.dev/icons?i=net" width="48" height="48" alt="" />
-      </a>
-      <br>.Net
+ <td align="center" width="98">
+  <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="" /><br>React Native
+</td>
+
+  </tr>
+
+  <tr>
+    <td align="center" width="98">
+      <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="" /><br>MySQL
+    </td>
+    <td align="center" width="98">
+      <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="" /><br>MongoDB
+    </td>
+    <td align="center" width="98">
+      <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="" /><br>PostgreSQL
+    </td>
+    <td align="center" width="98">
+      <img src="https://skillicons.dev/icons?i=graphql" width="48" height="48" alt="" /><br>GraphQL
+    </td>
+    <td align="center" width="98">
+      <img src="https://skillicons.dev/icons?i=prisma" width="48" height="48" alt="" /><br>Prisma
+    </td>
+    <td align="center" width="98">
+      <img src="https://skillicons.dev/icons?i=supabase" width="48" height="48" alt="" /><br>Supabase
+    </td>
+    <td align="center" width="98">
+      <img src="https://skillicons.dev/icons?i=firebase" width="48" height="48" alt="" /><br>Firebase
+    </td>
+    <td align="center" width="98">
+      <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="" /><br>Docker
+    </td>
+    <td align="center" width="98">
+      <img src="https://skillicons.dev/icons?i=aws" width="48" height="48" alt="" /><br>AWS
     </td>
   </tr>
- <tr>
-      <td align="center" width="98">
-      <a href="#prosenjit07-tech">
-        <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="" />
-      </a>
-      <br>Bootstrap
-    </td>
-      <td align="center" width="98">
-      <a href="#prosenjit07-tech">
-        <img src="https://skillicons.dev/icons?i=bash" width="48" height="48" alt="" />
-      </a>
-      <br>Bash
+
+  <tr>
+    <td align="center" width="98">
+      <img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="" /><br>Figma
     </td>
     <td align="center" width="98">
-      <a href="#prosenjit07-tech">
-        <img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="" />
-      </a>
-      <br>Php
+      <img src="https://skillicons.dev/icons?i=androidstudio" width="48" height="48" alt="" /><br>Android Studio
     </td>
     <td align="center" width="98">
-      <a href="#prosenjit07-tech">
-        <img src="https://skillicons.dev/icons?i=firebase" width="48" height="48" alt="" />
-      </a>
-      <br>Firebase
+      <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="" /><br>VS Code
     </td>
     <td align="center" width="98">
-      <a href="#prosenjit07-tech">
-        <img src="https://skillicons.dev/icons?i=jquery" width="48" height="48" alt="" />
-      </a>
-      <br>Jquery
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="48" height="48" alt="" /><br>PyCharm
     </td>
     <td align="center" width="98">
-      <a href="#prosenjit07-tech">
-        <img src="https://skillicons.dev/icons?i=kotlin" width="48" height="48" alt="" />
-      </a>
-      <br>Kotlin
+      <img src="https://skillicons.dev/icons?i=bash" width="48" height="48" alt="" /><br>Bash
     </td>
     <td align="center" width="98">
-      <a href="#prosenjit07-tech">
-        <img src="https://skillicons.dev/icons?i=googlecloud" width="48" height="48" alt="" />
-      </a>
-      <br>GoogleCloud
+      <img src="https://skillicons.dev/icons?i=googlecloud" width="48" height="48" alt="" /><br>Google Cloud
     </td>
- </tr>
- 
+    <td align="center" width="98">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Adobe_Premiere_Pro_CC_icon.svg/2101px-Adobe_Premiere_Pro_CC_icon.svg.png" width="48" height="48" alt="" /><br>Premiere Pro
+    </td>
+  </tr>
 </table>
 
 ### Activities & Stats
