@@ -10,7 +10,7 @@
   <img src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif" alt="Coding" width="350">
 </p>
 
-<h4 align="center"><s>Like</s> <b>Love</b> Programming ❤️</h4>
+<h4 align="center">I <s>Like</s> <b>Love</b> Programming ❤️</h4>
 <!-- Profile Views -->
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=prosenjit07&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
