@@ -84,12 +84,6 @@ src="https://img.shields.io/github/followers/prosenjit07?logo=github&style=for-t
       <img src="https://skillicons.dev/icons?i=py" width="48" height="48" alt="" /><br>Python
     </td>
     <td align="center" width="98">
-      <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="" /><br>HTML5
-    </td>
-    <td align="center" width="98">
-      <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="" /><br>CSS3
-    </td>
-    <td align="center" width="98">
       <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="" /><br>JavaScript
     </td>
     <td align="center" width="98">
@@ -98,11 +92,20 @@ src="https://img.shields.io/github/followers/prosenjit07?logo=github&style=for-t
     <td align="center" width="98">
       <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="" /><br>Git
     </td>
-  </tr>
-  
-  <tr>
     <td align="center" width="98">
       <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="" /><br>GitHub
+    </td>
+    <td align="center" width="98">
+      <img src="https://skillicons.dev/icons?i=tensorflow" width="48" height="48" alt="" /><br>ML
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center" width="98">
+      <img src="https://skillicons.dev/icons?i=pytorch" width="48" height="48" alt="" /><br>Deep Learning
+    </td>
+    <td align="center" width="98">
+      <img src="https://skillicons.dev/icons?i=kubernetes" width="48" height="48" alt="" /><br>Kubernetes
     </td>
     <td align="center" width="98">
       <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="" /><br>ReactJS
@@ -120,21 +123,14 @@ src="https://img.shields.io/github/followers/prosenjit07?logo=github&style=for-t
       <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="" /><br>Tailwind CSS
     </td>
     <td align="center" width="98">
-      <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="" /><br>Bootstrap
+      <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="" /><br>React Native
     </td>
-    <td align="center" width="98">
-      <img src="https://skillicons.dev/icons?i=jquery" width="48" height="48" alt="" /><br>jQuery
-    </td>
- <td align="center" width="98">
-  <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="" /><br>React Native
-</td>
-
-  </tr>
-
-  <tr>
     <td align="center" width="98">
       <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="" /><br>MySQL
     </td>
+  </tr>
+
+  <tr>
     <td align="center" width="98">
       <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="" /><br>MongoDB
     </td>
@@ -159,15 +155,12 @@ src="https://img.shields.io/github/followers/prosenjit07?logo=github&style=for-t
     <td align="center" width="98">
       <img src="https://skillicons.dev/icons?i=aws" width="48" height="48" alt="" /><br>AWS
     </td>
-  </tr>
-
-  <tr>
-    <td align="center" width="98">
-      <img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="" /><br>Figma
-    </td>
     <td align="center" width="98">
       <img src="https://skillicons.dev/icons?i=androidstudio" width="48" height="48" alt="" /><br>Android Studio
     </td>
+  </tr>
+
+  <tr>
     <td align="center" width="98">
       <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="" /><br>VS Code
     </td>
@@ -180,12 +173,10 @@ src="https://img.shields.io/github/followers/prosenjit07?logo=github&style=for-t
     <td align="center" width="98">
       <img src="https://skillicons.dev/icons?i=googlecloud" width="48" height="48" alt="" /><br>Google Cloud
     </td>
-    <td align="center" width="98">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Adobe_Premiere_Pro_CC_icon.svg/2101px-Adobe_Premiere_Pro_CC_icon.svg.png" width="48" height="48" alt="" /><br>Premiere Pro
-    </td>
   </tr>
 </table>
 
+  
 ### Activities & Stats
 
 
