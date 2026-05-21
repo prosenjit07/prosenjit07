@@ -69,7 +69,8 @@ src="https://img.shields.io/github/followers/prosenjit07?logo=github&style=for-t
 
 > Tools, languages and other things that I like to work with.
 <table>
-  <!-- Row 1: Languages & Core Tools -->
+
+  <!-- Languages & Core Tools -->
   <tr>
     <td align="center" width="98">
       <img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" alt="" /><br>C++
@@ -98,12 +99,9 @@ src="https://img.shields.io/github/followers/prosenjit07?logo=github&style=for-t
     <td align="center" width="98">
       <img src="https://skillicons.dev/icons?i=bash" width="48" height="48" alt="" /><br>Bash
     </td>
-    <td align="center" width="98">
-      <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="" /><br>VS Code
-    </td>
   </tr>
 
-  <!-- Row 2: Frameworks & Mobile -->
+  <!-- Frontend & AI/ML -->
   <tr>
     <td align="center" width="98">
       <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="" /><br>ReactJS
@@ -115,13 +113,16 @@ src="https://img.shields.io/github/followers/prosenjit07?logo=github&style=for-t
       <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="" /><br>React Native
     </td>
     <td align="center" width="98">
+      <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="" /><br>Tailwind CSS
+    </td>
+    <td align="center" width="98">
       <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="" /><br>Node.js
     </td>
     <td align="center" width="98">
       <img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="" /><br>Express.js
     </td>
     <td align="center" width="98">
-      <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="" /><br>Tailwind CSS
+      <img src="https://skillicons.dev/icons?i=graphql" width="48" height="48" alt="" /><br>GraphQL
     </td>
     <td align="center" width="98">
       <img src="https://skillicons.dev/icons?i=tensorflow" width="48" height="48" alt="" /><br>ML
@@ -129,15 +130,9 @@ src="https://img.shields.io/github/followers/prosenjit07?logo=github&style=for-t
     <td align="center" width="98">
       <img src="https://skillicons.dev/icons?i=pytorch" width="48" height="48" alt="" /><br>Deep Learning
     </td>
-    <td align="center" width="98">
-      <img src="https://skillicons.dev/icons?i=androidstudio" width="48" height="48" alt="" /><br>Android Studio
-    </td>
-    <td align="center" width="98">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="48" height="48" alt="" /><br>PyCharm
-    </td>
   </tr>
 
-  <!-- Row 3: Databases & Cloud / DevOps -->
+  <!-- Databases, DevOps & Cloud -->
   <tr>
     <td align="center" width="98">
       <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="" /><br>MySQL
@@ -147,9 +142,6 @@ src="https://img.shields.io/github/followers/prosenjit07?logo=github&style=for-t
     </td>
     <td align="center" width="98">
       <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="" /><br>PostgreSQL
-    </td>
-    <td align="center" width="98">
-      <img src="https://skillicons.dev/icons?i=graphql" width="48" height="48" alt="" /><br>GraphQL
     </td>
     <td align="center" width="98">
       <img src="https://skillicons.dev/icons?i=prisma" width="48" height="48" alt="" /><br>Prisma
@@ -171,14 +163,23 @@ src="https://img.shields.io/github/followers/prosenjit07?logo=github&style=for-t
     </td>
   </tr>
 
-  <!-- Row 4: Remaining -->
+  <!-- Tools & Platforms -->
   <tr>
     <td align="center" width="98">
       <img src="https://skillicons.dev/icons?i=googlecloud" width="48" height="48" alt="" /><br>Google Cloud
     </td>
+    <td align="center" width="98">
+      <img src="https://skillicons.dev/icons?i=androidstudio" width="48" height="48" alt="" /><br>Android Studio
+    </td>
+    <td align="center" width="98">
+      <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="" /><br>VS Code
+    </td>
+    <td align="center" width="98">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="48" height="48" alt="" /><br>PyCharm
+    </td>
   </tr>
-</table>
 
+</table>
   
 ### Activities & Stats
 
