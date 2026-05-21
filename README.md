@@ -68,8 +68,8 @@ src="https://img.shields.io/github/followers/prosenjit07?logo=github&style=for-t
 <h2 align="left" id="prosenjit07-tech">Favorite Tech</h2>
 
 > Tools, languages and other things that I like to work with.
-
 <table>
+  <!-- Row 1: Languages & Core Tools -->
   <tr>
     <td align="center" width="98">
       <img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" alt="" /><br>C++
@@ -96,22 +96,23 @@ src="https://img.shields.io/github/followers/prosenjit07?logo=github&style=for-t
       <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="" /><br>GitHub
     </td>
     <td align="center" width="98">
-      <img src="https://skillicons.dev/icons?i=tensorflow" width="48" height="48" alt="" /><br>ML
+      <img src="https://skillicons.dev/icons?i=bash" width="48" height="48" alt="" /><br>Bash
+    </td>
+    <td align="center" width="98">
+      <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="" /><br>VS Code
     </td>
   </tr>
 
+  <!-- Row 2: Frameworks & Mobile -->
   <tr>
-    <td align="center" width="98">
-      <img src="https://skillicons.dev/icons?i=pytorch" width="48" height="48" alt="" /><br>Deep Learning
-    </td>
-    <td align="center" width="98">
-      <img src="https://skillicons.dev/icons?i=kubernetes" width="48" height="48" alt="" /><br>Kubernetes
-    </td>
     <td align="center" width="98">
       <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="" /><br>ReactJS
     </td>
     <td align="center" width="98">
       <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="" /><br>Next.js
+    </td>
+    <td align="center" width="98">
+      <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="" /><br>React Native
     </td>
     <td align="center" width="98">
       <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="" /><br>Node.js
@@ -123,14 +124,24 @@ src="https://img.shields.io/github/followers/prosenjit07?logo=github&style=for-t
       <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="" /><br>Tailwind CSS
     </td>
     <td align="center" width="98">
-      <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="" /><br>React Native
+      <img src="https://skillicons.dev/icons?i=tensorflow" width="48" height="48" alt="" /><br>ML
     </td>
     <td align="center" width="98">
-      <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="" /><br>MySQL
+      <img src="https://skillicons.dev/icons?i=pytorch" width="48" height="48" alt="" /><br>Deep Learning
+    </td>
+    <td align="center" width="98">
+      <img src="https://skillicons.dev/icons?i=androidstudio" width="48" height="48" alt="" /><br>Android Studio
+    </td>
+    <td align="center" width="98">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="48" height="48" alt="" /><br>PyCharm
     </td>
   </tr>
 
+  <!-- Row 3: Databases & Cloud / DevOps -->
   <tr>
+    <td align="center" width="98">
+      <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="" /><br>MySQL
+    </td>
     <td align="center" width="98">
       <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="" /><br>MongoDB
     </td>
@@ -153,23 +164,15 @@ src="https://img.shields.io/github/followers/prosenjit07?logo=github&style=for-t
       <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="" /><br>Docker
     </td>
     <td align="center" width="98">
-      <img src="https://skillicons.dev/icons?i=aws" width="48" height="48" alt="" /><br>AWS
+      <img src="https://skillicons.dev/icons?i=kubernetes" width="48" height="48" alt="" /><br>Kubernetes
     </td>
     <td align="center" width="98">
-      <img src="https://skillicons.dev/icons?i=androidstudio" width="48" height="48" alt="" /><br>Android Studio
+      <img src="https://skillicons.dev/icons?i=aws" width="48" height="48" alt="" /><br>AWS
     </td>
   </tr>
 
+  <!-- Row 4: Remaining -->
   <tr>
-    <td align="center" width="98">
-      <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="" /><br>VS Code
-    </td>
-    <td align="center" width="98">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="48" height="48" alt="" /><br>PyCharm
-    </td>
-    <td align="center" width="98">
-      <img src="https://skillicons.dev/icons?i=bash" width="48" height="48" alt="" /><br>Bash
-    </td>
     <td align="center" width="98">
       <img src="https://skillicons.dev/icons?i=googlecloud" width="48" height="48" alt="" /><br>Google Cloud
     </td>
